@@ -1,7 +1,7 @@
 ![MasterHead](https://static.wixstatic.com/media/2c778e_89d09c380b7b4a09bcdbcb329c4734b3~mv2.gif)
 <h1 align="center">Hey there 👋, I'm Ayush Pathak</h1>
 <h3 align="center">A Software Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-pathak-1&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pathak-1" /> </p>
 
 - 🔭 I’m currently working on **Android development language**
