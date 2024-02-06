@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-pathak-1&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pathak-1" /> </p>
 
-- 🔭 I’m currently working on **Android development language**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Python Development**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 💬 About Me **I am a Third-Year Computer Engineering Student Searching for an Internship in the Software & Android Development Field.**
+- 💬 About Me **I am a Graduate Computer Engineering Student Searching for Job in the Software & Web Development Field.**
 
 - 📫 How to reach me just **Mail me at "pathakayush980@gmail.com"**
 
